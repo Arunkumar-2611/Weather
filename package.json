@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Arunkumar-2611/wether_pro.git"
+    "url": "git+https://github.com/Arunkumar-2611/Weather.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Arunkumar-2611/wether_pro/issues"
+    "url": "https://github.com/Arunkumar-2611/Weather/issues"
   },
-  "homepage": "https://github.com/Arunkumar-2611/wether_pro#readme",
+  "homepage": "https://github.com/Arunkumar-2611/Weather#readme",
   "dependencies": {
     "express": "^5.1.0"
   }
